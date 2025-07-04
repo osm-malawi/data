@@ -24,7 +24,7 @@ Please always verify licensing and permissions from the original data owners bef
 
 ---
 
-## 📘 Sample Datasets & Access Info
+## 📘 Datasets & Access Info
 
 | Dataset | Description | Where to Find / Contact | Notes |
 |--------|-------------|-------------------------|-------|
